@@ -10,4 +10,4 @@ twitter:(https://twitter.com/DanWilson_Tech1)
 
 ## special thanks to:
 
-Jenny at Thinkful for being a great gjuide through this.
+Jenny at Thinkful for being a great guide through this.
